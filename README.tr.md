@@ -17,6 +17,7 @@ Başlıca araçlarım **Python, Django/FastAPI, React/Next.js ve SQL**. İş pan
 
 - **[AION2 Global Translator](https://github.com/arslanserhat/AION2-Global-Translator):** AION2Steam metin kaynakları için yerelleştirme aracı. Çevrimdışı JSON ve LibreTranslate uyumlu sağlayıcıları destekler.
 - **[Harf Adası](https://github.com/arslanserhat/harf-adasi)** · [Canlı demo](https://arslanserhat.github.io/harf-adasi/): Öğretmen kelime listeleri, hikâye etkinlikleri ve dokunmatik yazı alanıyla Türkçe okuma, yazma ve sayı çalışmaları. Laravel ve JavaScript/Vite ile geliştirildi.
+- **[borsa-indikator](https://github.com/arslanserhat/borsa-indikator):** Piyasa panoları, teknik göstergeler ve izleme listeleri üzerine deneysel Next.js/TypeScript projesi; veri bağlantısı ve basitleştirilmiş geçmiş sinyal testi kodu içerir.
 
 Çalışmaya girdileri, beklenen çıktıyı ve iş kurallarını netleştirerek başlıyorum. Eksik verinin nasıl ele alınacağını, hataların nasıl görüneceğini ve aracın tekrar nasıl çalıştırılacağını önemsiyorum. Açık çalışmalarımın güncel durumunu ilgili depolardan takip edebilirsiniz.
 
