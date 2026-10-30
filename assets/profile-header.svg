@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="header-title header-description">
+  <title id="header-title">Serhat Arslan — software for commerce, data and multilingual products</title>
+  <desc id="header-description">Profile header. Python, React and Next.js, SQL, and API integrations.</desc>
+  <rect width="1200" height="320" rx="20" fill="#091B2D"/>
+  <rect x="56" y="48" width="52" height="4" rx="2" fill="#62DFC7"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="56" y="112" fill="#F7FBFF" font-size="40" font-weight="700" letter-spacing="4">SERHAT ARSLAN</text>
+    <text x="56" y="174" fill="#F7FBFF" font-size="28" font-weight="400">Software for commerce, data &amp; multilingual products</text>
+    <text x="56" y="225" fill="#8EDCCD" font-size="19" font-weight="400" letter-spacing="0.3">Python · React / Next.js · SQL · API integrations</text>
+  </g>
+  <g fill="none" stroke="#62DFC7" stroke-width="1.5" opacity="0.32" aria-hidden="true">
+    <path d="M1040 84h56v52h48M1040 136h56v52h48M1040 188h56v52h48"/>
+    <circle cx="1040" cy="84" r="4" fill="#091B2D"/>
+    <circle cx="1040" cy="136" r="4" fill="#091B2D"/>
+    <circle cx="1040" cy="188" r="4" fill="#091B2D"/>
+    <circle cx="1144" cy="136" r="4" fill="#091B2D"/>
+    <circle cx="1144" cy="188" r="4" fill="#091B2D"/>
+    <circle cx="1144" cy="240" r="4" fill="#091B2D"/>
+  </g>
+  <path d="M56 273h1088" stroke="#62DFC7" stroke-width="1" opacity="0.17"/>
+</svg>
