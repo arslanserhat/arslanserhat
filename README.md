@@ -2,11 +2,11 @@
 
 # Serhat Arslan
 
-Software for commerce, data and everyday operations.
+**Full-stack development · Commerce automation · Multilingual products**
 
-[Türkçe](https://github.com/arslanserhat/arslanserhat/blob/main/README.tr.md)
+[Project catalogue](https://github.com/arslanserhat/arslanserhat/blob/main/PROJECTS.md) · [Türkçe](https://github.com/arslanserhat/arslanserhat/blob/main/README.tr.md) · [LinkedIn](https://www.linkedin.com/in/serhatarslan)
 
-I'm a developer based in Istanbul. My work brings together software development and hands-on e-commerce operations: product information, inventory, pricing, orders and reporting. I like turning a repeated task or an unclear process into something a team can run, inspect and maintain.
+I'm a full-stack developer based in Istanbul, working in web development since 2018 and e-commerce operations since 2021. I connect product, inventory, pricing, order and reporting workflows with practical software.
 
 ## What I work on
 
@@ -17,11 +17,20 @@ I'm a developer based in Istanbul. My work brings together software development 
 
 My main tools are **Python, Django/FastAPI, React/Next.js and SQL**. I also use **PHP/Laravel** for business panels. I choose the implementation around the existing system and the task rather than making every project fit the same stack.
 
-## Product and workflow work
+## Product and application work
 
-**[eTahlil](https://www.etahlil.com.tr)** is a multilingual digital product I founded and continue to develop. My work includes product scope, web interfaces, data-processing workflows and ongoing improvements. Public interface examples cover onboarding, language selection, mobile layouts and Arabic RTL.
+[Explore the full project catalogue](https://github.com/arslanserhat/arslanserhat/blob/main/PROJECTS.md) for product scope, technologies and development status, including my private-source work.
 
-**Fulfillment Hub — in development** covers dealer purchasing, inventory ownership, warehouse handoffs and dispatch workflows. I work on the business rules, application flows and integration requirements. Some ERP and channel connections are still being developed; the workflow screenshots use sample data.
+| Project | Focus |
+|---|---|
+| [eTahlil / e-Sonuç+](https://github.com/arslanserhat/arslanserhat/blob/main/PROJECTS.md#etahlil) | Multilingual document and report workflows |
+| [Fulfillment Hub](https://github.com/arslanserhat/arslanserhat/blob/main/PROJECTS.md#fulfillment-hub) | B2B commerce and warehouse operations |
+| [Ciro Master](https://github.com/arslanserhat/arslanserhat/blob/main/PROJECTS.md#ciro-master) | Commerce operations and ERP reporting |
+| [Export Product Catalogue](https://github.com/arslanserhat/arslanserhat/blob/main/PROJECTS.md#export-catalogue) | Product information, images and catalogue publishing |
+| [BizReports](https://github.com/arslanserhat/arslanserhat/blob/main/PROJECTS.md#bizreports) | Web analytics and scheduled reporting |
+| [Clinic Website & Content Workflows](https://github.com/arslanserhat/arslanserhat/blob/main/PROJECTS.md#clinic-website) | Service content, enquiry forms and publishing |
+| [Mobile Game Lab](https://github.com/arslanserhat/arslanserhat/blob/main/PROJECTS.md#mobile-game-lab) | 3D web and mobile game prototyping |
+| [Zombie Runner 3D — Unity Prototype](https://github.com/arslanserhat/arslanserhat/blob/main/PROJECTS.md#zombie-runner-3d) | Third-person gameplay foundations |
 
 ## Selected public repositories
 
