@@ -2,16 +2,26 @@
 
 E-ticaret, veri ve günlük iş akışları için yazılım geliştiriyorum.
 
-[English](https://github.com/arslanserhat/arslanserhat/blob/main/README.md)
+[Proje kataloğu](https://github.com/arslanserhat/arslanserhat/blob/main/PROJECTS.tr.md) · [English](https://github.com/arslanserhat/arslanserhat/blob/main/README.md) · [LinkedIn](https://www.linkedin.com/in/serhatarslan)
 
-Yazılım geliştirme geçmişimi e-ticaret operasyonlarında edindiğim deneyimle birleştiriyorum. Ürün bilgisi, stok, fiyat, sipariş ve raporlama süreçlerindeki tekrarları azaltan, kullanımı anlaşılır araçlar üzerine çalışıyorum.
+2018’den beri web geliştirme, 2021’den beri e-ticaret operasyonları üzerinde çalışıyorum. Ürün bilgisi, stok, fiyat, sipariş ve raporlama süreçlerindeki tekrarları azaltan, kullanımı anlaşılır araçlar üzerine çalışıyorum.
 
 Başlıca araçlarım **Python, Django/FastAPI, React/Next.js ve SQL**. İş panellerinde **PHP/Laravel** de kullanıyorum. Teknolojiyi mevcut sisteme ve çözülecek işe göre seçiyorum.
 
-## Çalışmalarım
+## Ürün ve uygulama çalışmalarım
 
-- **[eTahlil](https://www.etahlil.com.tr):** Kurduğum ve geliştirmeye devam ettiğim çok dilli dijital ürün. Web arayüzleri, veri işleme, mobil deneyim ve Arapça RTL akışları üzerinde çalışıyorum.
-- **Fulfillment Hub:** Bayi satın alma, stok sahipliği, depo ve sevk iş akışları. Proje geliştirme aşamasında; bazı ERP ve kanal bağlantıları devam ediyor. Portföy ekranlarında örnek veriler kullanılıyor.
+[Proje kataloğunda](https://github.com/arslanserhat/arslanserhat/blob/main/PROJECTS.tr.md) özel kaynaklı çalışmalarım dahil her projenin kapsamını, teknolojilerini ve geliştirme durumunu inceleyebilirsiniz.
+
+| Proje | Odak |
+|---|---|
+| [eTahlil / e-Sonuç+](https://github.com/arslanserhat/arslanserhat/blob/main/PROJECTS.tr.md#etahlil) | Çok dilli belge ve rapor akışları |
+| [Fulfillment Hub](https://github.com/arslanserhat/arslanserhat/blob/main/PROJECTS.tr.md#fulfillment-hub) | B2B ticaret ve depo operasyonları |
+| [Ciro Master](https://github.com/arslanserhat/arslanserhat/blob/main/PROJECTS.tr.md#ciro-master) | Ticaret operasyonları ve ERP raporlama |
+| [İhracat Ürün Kataloğu](https://github.com/arslanserhat/arslanserhat/blob/main/PROJECTS.tr.md#export-catalogue) | Ürün bilgisi, görsel ve katalog hazırlama |
+| [BizReports](https://github.com/arslanserhat/arslanserhat/blob/main/PROJECTS.tr.md#bizreports) | Web analitiği ve dönemsel raporlama |
+| [Klinik Web Sitesi ve İçerik Akışları](https://github.com/arslanserhat/arslanserhat/blob/main/PROJECTS.tr.md#clinic-website) | Hizmet içeriği, iletişim formları ve yayınlama |
+| [Mobile Game Lab](https://github.com/arslanserhat/arslanserhat/blob/main/PROJECTS.tr.md#mobile-game-lab) | 3D web ve mobil oyun prototipleme |
+| [Zombie Runner 3D — Unity Prototipi](https://github.com/arslanserhat/arslanserhat/blob/main/PROJECTS.tr.md#zombie-runner-3d) | Üçüncü şahıs oynanış temelleri |
 
 ## Seçilmiş açık depolar
 
